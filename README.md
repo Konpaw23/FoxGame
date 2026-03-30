@@ -23,3 +23,9 @@ This project was created during university classes and focuses on learning core 
 * Unity
 * C#
 * Visual Studio
+
+## Assets
+
+* SunnyLand - by Ansimuz
+* Fast UI Sounds - by AD Sounds
+* 2D Pixel Item Asset Pack - by Startled Pixels

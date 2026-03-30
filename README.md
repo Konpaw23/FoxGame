@@ -20,7 +20,7 @@ This project was created during university classes and focuses on learning core 
 
 ## Technologies
 
-* Unity
+* Unity 2022.3.10f1
 * C#
 * Visual Studio
 
